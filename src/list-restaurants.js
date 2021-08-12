@@ -1,4 +1,4 @@
-// Наши рестораны
+
 const restaurants = [
   {
     title: 'Hot Burger Snowdon',
